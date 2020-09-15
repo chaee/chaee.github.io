@@ -2,17 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: links
     url: false
     entries:
-      - title: 웹 여기저기 산재하는 나의 조각들을 한 군데에 모으기
-        url: false
+        - title: www 여기저기 흩어진 나의 흔적들
+          url: false
       - title: professional self
         url: https://www.notion.so/mcssfw/curious-magpie-log-eb084c838ed24e8398d733ad79266eaf
       - title: project penguin
         url: https://projectpenguin.tumblr.com/
-      - title: fox the knitter 
+      - title: 뜨개하는 여우
         url: https://foxtheknitter.tistory.com  
+      - title: fox the knitter
+        url: https://www.instagram.com/fox_the_knitter
 
   - title: 독서망양
     post_list: true
