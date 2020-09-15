@@ -5,14 +5,16 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: 웹 여기저기 산재하는 나의 조각들을 한 군데에 모으기
         url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+      - title: :sparkles: professional self
+        url: https://www.notion.so/mcssfw/curious-magpie-log-eb084c838ed24e8398d733ad79266eaf
+      - title: project penguin
+        url: https://projectpenguin.tumblr.com/
+      - title: fox the knitter 
+        url: https://foxtheknitter.tistory.com  
 
-  - title: thoughts
+  - title: 독서망양
     post_list: true
     url: false
     entries: false

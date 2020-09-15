@@ -3,7 +3,6 @@ author: chaeee # name of site's author
 email: mcssfw@gmail.com # email of site's author
 url: https://chaee.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  웹 여기저기 산재하는 나의 조각들을 한 군데에 모으기
 
 permalink: /:slug.html
 
