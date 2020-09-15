@@ -16,26 +16,28 @@ entries:
       - title: fox the knitter
         url: https://www.instagram.com/fox_the_knitter
 
-  - title: 독서망양
+  - title: 단상
     post_list: true
     url: false
     entries: false
 
-  - title: rss
-    url: feed.xml
+    #- title: rss
+    #url: feed.xml
   
-  - title: another list
+  - title: 독서망양
     url: false
     entries:
-      - title: with subitems
+      - title: 읽고 있는 책
         url: false
-        entries:
-          - title: with subsubitems
-            url: false
+        #entries:
+            # - title: with subsubitems
+            #url: false
+            #- title: example page
+            #url: about
+      - title: 다 읽은 책
+        url: false
+        #entries:
+            #- title: with subsubitems
+            #url: false
           - title: example page
             url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
