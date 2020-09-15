@@ -31,6 +31,3 @@ entries:
         url: false
       - title: 다 읽은 책
         url: false
-        entries:
-          - title: example page
-            url: about
