@@ -5,8 +5,8 @@ entries:
   - title: info
     url: false
     entries:
-        - title: www 여기저기 흩어진 나의 흔적들
-          url: false
+      - title: www 여기저기 흩어진 나의 흔적들
+        url: false
       - title: professional self
         url: https://www.notion.so/mcssfw/curious-magpie-log-eb084c838ed24e8398d733ad79266eaf
       - title: project penguin
